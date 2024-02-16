@@ -1,0 +1,18 @@
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-pink {
+    background-color: rgb(255, 238, 243);
+}
+
+.card {
+    height: 100%;
+}
+
+.row{
+    margin-bottom: 15%; /* Agrega espacio entre el formulario y el footer */
+
+}
+
+/* Agrega otros estilos según sea necesario */
